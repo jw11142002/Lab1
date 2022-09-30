@@ -1,10 +1,11 @@
 # Welcome to my Lab 0&1 Webpage
 
-**This is bold text**
-~~This was mistaken text~~
+~~I want money~~
+**I love computer science!**
+
 
 Text that is not a quote
-> This is a quote
+> This is indeed a quote
 
 Printing `Hello World!` is a common way to start off with a language
 
@@ -18,10 +19,10 @@ My favorite website is [Youtube](https://youtube.com/).
 - 2
 - 3
   
-1. 3
-2. 2
-3. 1
+1. a
+2. b
+3. c
 
-- [x] Pass CSE 100
-- [ ] Pass CSE 101
-- [ ] Survive CSE 110
+- [x]  Pass CSE 100
+- [ ]  Pass CSE 101
+- [ ]  Survive CSE 110
