@@ -11,6 +11,8 @@ Printing `Hello World!` is a common way to start off with a language
 
 My favorite website is [Youtube](https://youtube.com/).
 
+[See where this leads :)](https://jw11142002.github.io/Lab1/#youve-jumped-to-this-header)
+
 [README file for this website](README.md)
 
 ![This is an image](https://ih1.redbubble.net/image.531944933.8717/flat,750x1000,075,f.u4.jpg)
